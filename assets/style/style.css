@@ -1,0 +1,11 @@
+
+/* Este es un selector de etiqueta */
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    background-image: url("../img/unnamed.jpg");
+}
+
+h1 {
+    text-align: center;
+    color: aliceblue;
+}
