@@ -1,0 +1,53 @@
+body{
+    background-color: #253346;
+    color: rgb(255, 246, 246);
+    margin: 150px;
+}
+h1 {
+    font-family: 'Tinos', serif;
+    text-align: center;
+    color: rgb(121, 230, 109);
+
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: 'Tinos', serif;
+    text-align: left;
+    color: rgb(121, 230, 109);
+
+}
+
+.listasdefav {
+    color: pink;
+}
+
+h3 {
+    font-weight: lighter;
+}
+
+h3:hover {
+    font-weight: bold;
+    transform: scale(1.1);
+}
+
+p {
+    font-family: 'Zilla Slab', serif;
+    font-size: 1.3em;
+}
+
+figure {
+    text-align: center;
+}
+
+a {
+    margin-top: 20px;
+}
+
+a:link {
+    color: rgb(45, 176, 194);
+    
+}
+
+a:visited {
+    color: rgb(37, 173, 190);
+}
